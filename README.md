@@ -3,7 +3,7 @@
 
 # 1) Install the lastes python version from here : https://www.python.org/downloads/
 
-# 2) After you installed python open the cmd and type ![image](https://user-images.githubusercontent.com/89339967/152651076-8087dd96-460a-4f68-8b79-d98d8d9ab912.png) or just       download qrcode_installer.bat
+# 2) After you installed python open the cmd and type ![image](https://user-images.githubusercontent.com/89339967/152651076-8087dd96-460a-4f68-8b79-d98d8d9ab912.png)
 
 # 3) After you complete all steps above , you can download qr-code-generator.exe and put it in a folder and then you can open.
 
