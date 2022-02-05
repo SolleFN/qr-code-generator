@@ -1,7 +1,7 @@
 # qr-code-generator
 # When you're going to run my program , windows defender's going to alert you , it alert you because for they i'm an unknow autor because i don't paid a license to be an official autor, for this i'm going to publish my code.
 
-# HOW TO OPEN : if you see this screen : ![image](https://user-images.githubusercontent.com/89339967/152651683-d42aa49e-b4ff-4b66-8ac8-dfaf4a897765.png) click on the underlined text and then you're going to see this : ![image](https://user-images.githubusercontent.com/89339967/152651547-ef9cd300-6b8e-4fc2-bf44-d7c8ea9bc8e8.png) then click execute anyways!
+# HOW TO OPEN : if you see this screen : ![image](https://user-images.githubusercontent.com/89339967/152651683-d42aa49e-b4ff-4b66-8ac8-dfaf4a897765.png) -----------------------click on the underlined text and then you're going to see this : ![image](https://user-images.githubusercontent.com/89339967/152651547-ef9cd300-6b8e-4fc2-bf44-d7c8ea9bc8e8.png) then click execute anyways!
 
 
 
