@@ -1,5 +1,5 @@
 # qr-code-generator
-# When you're going to run my program , windows defender's going to alert you , it alert you because for they i'm an unknow autor because i don't paid a license to be an official autor
+# When you're going to run my program , windows defender's going to alert you , it alert you because for they i'm an unknow autor because i don't paid a license to be an official autor, for this i'm going to publish my code.
 
 # 1) Install the lastes python version from here : https://www.python.org/downloads/
 
